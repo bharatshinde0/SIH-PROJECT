@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 112" role="img" aria-labelledby="title desc">
+  <title id="title">Ashok Stambha inspired emblem</title>
+  <desc id="desc">A stylized saffron and navy Ashok Stambha inspired civic logo.</desc>
+  <defs>
+    <linearGradient id="gold" x1="18" x2="78" y1="12" y2="94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8c15d"/>
+      <stop offset="0.48" stop-color="#d8841f"/>
+      <stop offset="1" stop-color="#8b3f12"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="8" x2="88" y1="0" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#fee2e2"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#shield)" d="M48 3 86 18v31c0 27-15 48-38 60C25 97 10 76 10 49V18L48 3Z"/>
+  <path fill="#111827" d="M48 8 80 21v28c0 23-12 41-32 53C28 90 16 72 16 49V21L48 8Zm0 8L23 26v23c0 19 9 34 25 44 16-10 25-25 25-44V26L48 16Z" opacity=".92"/>
+  <path fill="url(#gold)" d="M31 70h34v6H31zm4-8h26v6H35zm5-43c-4 0-7 3-7 7 0 5 4 8 10 8h10c6 0 10-3 10-8 0-4-3-7-7-7-3 0-6 2-8 5-2-3-5-5-8-5Zm-9 18h34l-5 20H36zm10 0h14l-2 20H43z"/>
+  <circle cx="48" cy="49" r="7" fill="#111827"/>
+  <circle cx="48" cy="49" r="3" fill="#f8c15d"/>
+  <path fill="#111827" d="M25 82h46v7H25z"/>
+</svg>
