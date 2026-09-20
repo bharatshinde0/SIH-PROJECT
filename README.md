@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Land Acquisition Risk Intelligence & Predictive Decision Support System
 
 MERN + FastAPI prototype for an SIH-style land acquisition delay prediction platform. The app is built around the demo story:
@@ -108,3 +109,7 @@ Open `http://localhost:5173`.
 - Backend implements actual JWT authentication and role authorization.
 - Never commit `.env`, database credentials, JWT secrets or API keys.
 - For production, connect frontend auth to the backend login endpoint and enforce HTTPS, stronger validation, centralized audit logging and hardened MongoDB access controls.
+=======
+# SIH-PROJECT
+SIH 1st Edition PROJECT
+>>>>>>> adb7abc7f1474aacd591b46f736a92d4ebce51ee
