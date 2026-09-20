@@ -45,6 +45,14 @@ async function start() {
   app.listen(port, () => console.log(`API listening on http://localhost:${port}`));
 }
 
+app.get("/", (req, res) => {
+  res.json({
+    message: "SIH Land Risk Intelligence Backend is running",
+    status: "OK"
+  });
+});
+
+
 start().catch((error) => {
   console.error(error);
   process.exit(1);
